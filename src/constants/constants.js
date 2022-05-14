@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Discord Bot',
     description:"I created a Discord bot that can reply to simple commands, and play music in voice channels when using the correct command.",
-    image: '/images/2.png',
+    image: '/images/discordbot.png',
     tags: ['Node', 'JavaScript'],
     source: '',
     visit: 'https://github.com/GabeDiniz/DiscordBot',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Multiclipboard',
     description: "Using Python and a JSON file, I created a function where the user can save their clipboard to a key, retrieve said clipboard, and delete existing clipboards.",
-    image: '/images/1.png',
+    image: '/images/pythonclip.jpg',
     tags: ['Python', 'JSON'],
     source: '',
     visit: 'https://github.com/GabeDiniz/PythonMultiClipboard',
