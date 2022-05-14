@@ -1,20 +1,20 @@
 export const projects = [
   {
-    title: 'Multiclipboard',
-    description: "Using Python and a JSON file, I created a function where the user can save their clipboard to a key, retrieve said clipboard, and delete existing clipboards.",
-      image: '/images/1.png',
-      tags: ['Python', 'JSON'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 0,
-  },
-  {
     title: 'Discord Bot',
     description:"I created a Discord bot that can reply to simple commands, and play music in voice channels when using the correct command.",
     image: '/images/2.png',
     tags: ['Node', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: '',
+    visit: 'https://github.com/GabeDiniz/DiscordBot',
+    id: 0,
+  },
+  {
+    title: 'Multiclipboard',
+    description: "Using Python and a JSON file, I created a function where the user can save their clipboard to a key, retrieve said clipboard, and delete existing clipboards.",
+    image: '/images/1.png',
+    tags: ['Python', 'JSON'],
+    source: '',
+    visit: 'https://github.com/GabeDiniz/PythonMultiClipboard',
     id: 1,
   },
   // {

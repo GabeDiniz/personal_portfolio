@@ -11,7 +11,7 @@ const Hero = (props) => (
         Gabriel Diniz
       </SectionTitle>
       <SectionText>
-        The purpose of this Website Portfolio is to give you a general idea of who I am. 
+        I may not be the best at what I do, but I can assure you that I will work harder than anyone to excel and exceed your expectations. 
       </SectionText>
       {/* <Button onClick={() => window.location = 'https:/google.com'}>Learn More</Button> */}
     </LeftSection>
