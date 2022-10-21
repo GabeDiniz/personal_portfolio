@@ -11,7 +11,7 @@ const Hero = (props) => (
         Gabriel Diniz
       </SectionTitle>
       <SectionText>
-        I may not be the best at what I do, but I can assure you that I will work harder than anyone to excel and exceed your expectations. 
+        Welcome to my page! 
       </SectionText>
       {/* <Button onClick={() => window.location = 'https:/google.com'}>Learn More</Button> */}
     </LeftSection>

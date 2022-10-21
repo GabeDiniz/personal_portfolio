@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'Quizzer App',
+    description:"Myself and 5 other UW students created a fullstack application using SpringBoot and Next.js. We successfully created a workspace where users can create and take quizzes through our RESTful API.",
+    image: '/images/discordbot.png',
+    tags: ['SpringBoot', 'Next.js'],
+    source: '',
+    visit: 'https://github.com/Koaste/Quiz_Application_OpenText_Fall-2022',
+    id: 0,
+  },
+  {
     title: 'Discord Bot',
     description:"I created a Discord bot that can reply to simple commands, and play music in voice channels when using the correct command.",
     image: '/images/discordbot.png',
@@ -17,15 +26,6 @@ export const projects = [
     visit: 'https://github.com/GabeDiniz/PythonMultiClipboard',
     id: 1,
   },
-  // {
-  //   title: 'WebRTC App',
-  //   description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-  //     image: '/images/3.jpg',
-  //     tags: ['React', 'WebRTC'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 2,
-  // },
   // {
   //   title: 'Unichat',
   //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
