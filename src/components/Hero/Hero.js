@@ -11,7 +11,7 @@ const Hero = (props) => (
         Gabriel Diniz
       </SectionTitle>
       <SectionText>
-        Welcome! Uhh.. I didn't expect you here to be honest. Especially considering the url for this website is "aquamarine-jelly". I don't know about you, but I think that's pretty sketchy.. Anyway, enjoy your time here!
+        Welcome! Uhh.. I didn't expect you here to be honest. Especially considering the url for this website is "aquamarine-jelly". I don't know about you, but I think that's pretty sketchy.. Anyway, enjoy your time here! <br /> Oh and DON'T TOUCH ANYTHING! Just kidding, do whatever you want
       </SectionText>
       {/* <Button onClick={() => window.location = 'https:/google.com'}>Learn More</Button> */}
     </LeftSection>
