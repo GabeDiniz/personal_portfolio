@@ -8,9 +8,8 @@ const Technologies = () =>  (
     <SectionDivider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have been exposed to a range of technologies through school work, past employment, and
-        personal projects. I am currently more comfortable with Front-end Development, but I am
-        eager to expand my skillset and improve my Back-end Developent abilities. 
+      WARNING WARNING WARNING THE TECHNOLOGIES LISTED ON THIS PAGE HAVE NOT BEEN UPDATED.. I guesss I didn't have to be that dramatic, but you get the gist. I have been exposed to a range of technologies through school work, past employment, and
+        personal projects. 
     </SectionText>
     <List>
       <ListItem>
