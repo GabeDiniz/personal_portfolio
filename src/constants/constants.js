@@ -2,8 +2,8 @@ export const projects = [
   {
     title: 'Quizzer App',
     description:"Myself and 5 other UW students created a fullstack application using SpringBoot and Next.js. We successfully created a workspace where users can create and take quizzes through our RESTful API.",
-    image: '/images/discordbot.png',
-    tags: ['SpringBoot', 'Next.js'],
+    image: '/images/html-banner.jpeg',
+    tags: ['SpringBoot', 'Next.js', 'HTML', 'CSS', 'JavaScript'],
     source: '',
     visit: 'https://github.com/Koaste/Quiz_Application_OpenText_Fall-2022',
     id: 0,
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Multiclipboard',
-    description: "Using Python and a JSON file, I created a function where the user can save their clipboard to a key, retrieve said clipboard, and delete existing clipboards.",
+    description: "Using Python and JSON, I created a function where the user can save their clipboard to a key, retrieve said clipboard, and delete existing clipboards.",
     image: '/images/pythonclip.jpg',
     tags: ['Python', 'JSON'],
     source: '',
